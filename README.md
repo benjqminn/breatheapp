@@ -2,6 +2,8 @@
 
 **Trust-aware environmental telemetry for public air-quality dashboards.**
 
+![Breathe dashboard overview](assets/breathe-01-hero-today-dashboard.png)
+
 Breathe is a deployed environmental data trust platform that shows local air-quality conditions while also explaining whether the telemetry behind those conditions appears fresh, complete, internally consistent, and clearly sourced.
 
 This is a public showcase repository for the project. The production source code is private, but recruiters, researchers, or interested collaborators are welcome to reach out if they would like to review the implementation in more detail.
